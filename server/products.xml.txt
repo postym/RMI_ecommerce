@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+  <product>
+    <productCode>PD1</productCode>
+    <name>Dress</name>
+    <description>Summer Dress</description>  <storePrice>380.91</storePrice>
+    <retailPrice>440.00</retailPrice>
+    <quantity>100</quantity>
+  </product>
+  <product>
+    <productCode>PD2</productCode>
+    <name>Shoes</name>
+    <description>Rubber Shoes</description>
+    <storePrice>441.72</storePrice>
+    <retailPrice>600.00</retailPrice>
+    <quantity>100</quantity>
+  </product>
+<product>
+    <productCode>PD3</productCode>
+    <name>Hoodie</name>
+    <description>Penshoppe Hoodie</description>  <storePrice>540.91</storePrice>
+    <retailPrice>740.00</retailPrice>
+    <quantity>100</quantity>
+  </product>
+<product>
+    <productCode>PD4</productCode>
+    <name>Watch</name>
+    <description>Men's Watch </description>  <storePrice>740.00</storePrice>
+    <retailPrice>840.00</retailPrice>
+    <quantity>100</quantity>
+  </product>
+<product>
+    <productCode>PD5</productCode>
+    <name>Necklace</name>
+    <description>TBK Necklace</description>  <storePrice>340.91</storePrice>
+    <retailPrice>440.00</retailPrice>
+    <quantity>100</quantity>
+  </product>
+  </products>
